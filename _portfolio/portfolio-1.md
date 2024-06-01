@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "人学与学人丛书 1 情境主义国际读本 Humanities and Humanity Series 1 *Lecture de Internationale Situationniste*"
+excerpt: "编译，简体中文；Compilation and Translation, Simplified Chinese<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+〔法〕居伊·德波 等  著，休伊万  编，休伊万  译：《情境主义国际读本》，北京：One to Nth Press House、学文书社，2024年。Debord, Guy, et al. Ivan, Hugh, ed. *Lecture de Internationale Situationniste*. Translated by Hugh Ivan. Beijing: One to Nth Press House, XueWen Publishing House, 2024.
