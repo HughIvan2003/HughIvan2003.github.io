@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "全部内容指南 Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
