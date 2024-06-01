@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications 出版发表"
 permalink: /publications/
 author_profile: true
 ---
