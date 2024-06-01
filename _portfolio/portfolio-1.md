@@ -1,6 +1,6 @@
 ---
 title: "人学与学人丛书 1 情境主义国际读本 Humanities and Humanity Series 1 *Lecture de Internationale Situationniste*"
-excerpt: "编译，简体中文；Compilation and Translation, Simplified Chinese<br/><img src='/images/500x300.png'>"
+excerpt: "编译，简体中文；Compilation and Translation, Simplified Chinese<br/><img src='/images/【人学与学人丛书1】情境主义国际读本 封面.png'>"
 collection: portfolio
 ---
 
